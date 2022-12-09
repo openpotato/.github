@@ -5,3 +5,4 @@ OpenPotato comprises a number of small API-first open data projects whose aim is
 ### The projects
 
 + [OpenHolidays API](https://www.openholidaysapi.org/)
++ [OpenPLZ API](https://www.openplzapi.org/)
