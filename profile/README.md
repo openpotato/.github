@@ -9,5 +9,3 @@ OpenPotato comprises a number of small API-first open data projects whose aim is
 
 + [OpenHolidays API](https://www.openholidaysapi.org/)
 + [OpenPLZ API](https://www.openplzapi.org/)
-
-<a href="https://fosstodon.org/@openpotato" target="_blank" rel="me">https://fosstodon.org/@openpotato</a>
