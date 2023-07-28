@@ -7,3 +7,4 @@ OpenPotato primarily comprises a number of small API-first open data projects wh
 + [OpenHolidays API](https://www.openholidaysapi.org/)
 + [OpenPLZ API](https://www.openplzapi.org/)
 + [CSV Table Schema](https://openpotato.github.io/csv-table-schema/)
++ [SQLDocs](https://github.com/openpotato/sqldocs)
