@@ -1,3 +1,3 @@
 # .github
 
-*Community health files for the @openpotato*
+*Community health files for @openpotato*
