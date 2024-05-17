@@ -6,5 +6,6 @@ OpenPotato primarily comprises a number of API-first open data projects whose ai
 
 + [OpenHolidays API](https://www.openholidaysapi.org/): Provide public and school holiday data via an open REST API interface.
 + [OpenPLZ API](https://www.openplzapi.org/): Public street directory for Germany, Austria and Switzerland via an open REST API interface.
++ [OpenT8](https://openpotato.github.io/opent8/): A standardized JSON format for representing complex timetable data.
 + [CSV Table Schema](https://openpotato.github.io/csv-table-schema/): A pragmatic approach for defining CSV schemas via JSON.
 + [SQLDocs](https://github.com/openpotato/sqldocs): Creating nice looking MkDocs schema documentations for relational databases. 
