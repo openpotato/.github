@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-OpenPotato primarily comprises a number of API-first open data projects whose aim is to aggregate freely available data and publish it via open REST API interfaces.
+OpenPotato comprises a number of API-first open data projects whose aim is to aggregate freely available data and publish it via open REST API interfaces. There are also a number of standardisation proposals for data formats and data synchronisation.
 
 ### The Projects
 
